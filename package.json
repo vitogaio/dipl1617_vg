@@ -1,0 +1,28 @@
+{
+  "name": "dipl1617_vg",
+  "version": "1.0.0",
+  "description": "diplomarbeit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitogaio/dipl1617_vg.git"
+  },
+  "author": "vito gaio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitogaio/dipl1617_vg/issues"
+  },
+  "homepage": "https://github.com/vitogaio/dipl1617_vg#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
